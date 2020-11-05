@@ -5,6 +5,7 @@ It's pretty simple :
 - Edit the settings $lat and $long (coordinates on https://sunrise-sunset.org) if you plan to use the sun position
 - Edit the $ProcessList if you want to use it (usefull for Office Apps)
 - Create two scheduled tasks in a folder called ChangeTheme
+    - /!\ Tasks must be executed with elevated privileges /!\
     - One task SetLightTheme
     - One task SetDarkTheme
 - Define your trigger :
